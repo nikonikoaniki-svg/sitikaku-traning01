@@ -1,10 +1,7 @@
 # 視知覚トレーニングゲーム
 
-ブラウザだけで動く、視知覚トレーニング用ゲームです。
+GitHub Pagesでそのまま公開できます。
 
-## 使い方
-1. このフォルダ内のファイルをGitHubリポジトリにアップロード
-2. GitHub Pagesを有効化
-3. `index.html` がトップページとして表示されます
-
-外部ライブラリ不要・単一HTMLで動作します。
+- `index.html` をリポジトリ直下に置いてください。
+- Settings → Pages → Deploy from a branch を選びます。
+- Branch は `main` / `(root)` を指定します。
